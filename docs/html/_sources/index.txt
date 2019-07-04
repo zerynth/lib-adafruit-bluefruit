@@ -1,5 +1,0 @@
-*********
-Bluefruit
-*********
-
-.. include:: __toc.rst

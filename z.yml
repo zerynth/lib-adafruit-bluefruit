@@ -1,0 +1,14 @@
+---
+description: Driver for Adafruit Bluefruit shields and breakouts
+fullname: lib.adafruit.bluefruit
+info:
+    chip_manufacturer: Nordic
+    chip_name: NRF51822
+    name: Adafruit Bluefruit
+    type: Connectivity
+keywords:
+- wireless
+- adafruit
+- ble
+title: Adafruit Bluefruit
+...
